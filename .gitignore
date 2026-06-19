@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Dataset files
+OnlineRetail.csv
+
+# OS files
+.DS_Store
+
+OnlineRetail_clean.csv
+returns.csv
+sales.csv
